@@ -20,7 +20,7 @@
 To use or modify this theme:
 
 1. Clone the repository  
-   `git clone https://github.com/YOURUSERNAME/ash-and-mirror.git`
+   `git clone https://github.com/joshuazav/ash-and-mirror.git`
 
 2. Connect it to a Shopify store via **Online Store > Themes > Add from GitHub**
 
